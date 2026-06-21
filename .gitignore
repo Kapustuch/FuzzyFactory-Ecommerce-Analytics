@@ -13,6 +13,11 @@ secrets.json
 
 data/
 *.csv
+*.png
+
+tableau/
+*.twb
+*.twbr
 
 .DS_Store
 Thumbs.db

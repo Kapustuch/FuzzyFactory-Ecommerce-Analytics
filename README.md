@@ -25,7 +25,7 @@ To make the insights accessible to non-technical stakeholders, a dynamic Dashboa
 
 [Link to Interactive Tableau Dashboard](https://public.tableau.com/app/profile/yurii.kapusta/viz/FuzzyFactory_17820809897120/Dashboard)
 
-<img width="1198" height="894" alt="image" src="https://github.com/user-attachments/assets/569cab7e-a672-4389-9317-7848f1a59b94" />
+<img width="1497" height="1115" alt="image" src="https://github.com/user-attachments/assets/93869097-67fc-4475-8d61-f2c7f7eccc4a" />
 
 ## Data Sources
 
